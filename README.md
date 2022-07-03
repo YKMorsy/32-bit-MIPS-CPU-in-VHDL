@@ -1,5 +1,5 @@
 # 32-bit-MIPS-CPU-in-VHDL
-Implementation of a 32-bit MIPS CPU written in VHDL. Tested on PYNQ Z1 board.
+Implementation of a 32-bit MIPS CPU written in VHDL. Tested on PYNQ Z1.
 
 The CPU was designed based on the following schematic with a few additonal parts.
 
